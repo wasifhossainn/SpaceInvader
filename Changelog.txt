@@ -1,0 +1,18 @@
+Added alien morphing
+Display user score at end game 
+Added pause 
+Added new alien class that shoots
+Set multiplayer movement to half of the screen instead of whole screen 
+New bullet sprite for alien and human 
+Hit indication for both players 
+New sound effects and music 
+Added new high score sound effect to score module 
+collision with enemy and player 
+collision between playes 
+new sfx 
+powerups: extra life, buddy and more firepower  
+life bar 
+added sprite groupings allowing collisions to be streamlined 
+new sprites 
+all documentation is done
+

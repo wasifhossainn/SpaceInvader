@@ -1,0 +1,16 @@
+Changes to be made
+
+Single Player
+- Display User scores at the end of screen. Although a high score may not be acheieved, the score the user acheieved should be displayed. This should be shown after the user looses all their lives.  This should be displayed above the "High score is____ and enter your name" - Done 
+- Aliens should morph into different shape or colour if a collision occurs - done 
+- Extra: Add a Pause Feature - done 
+ -Extra: shooting Aliens - done 
+- Extra: moving stars
+
+Multiplayer
+- Display/Add more aliens  
+- Make the boundaries on the bottom and top of the screens higher. This is becuase if the two aliens cross each other, there will be no way to kill themselves - done
+- Player 2 (top alien) needs a new weapon/bullet such as a laser/bomb weapon - done
+- The user's ship should indicate that it has been hit. This can be achieved by losing some of its parts - done
+- Aliens should morph into different shape or colour if a collision occurs - done 
+- Extra: moving stars
